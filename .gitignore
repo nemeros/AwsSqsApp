@@ -1,0 +1,12 @@
+.git
+.settings
+.project
+.classpath
+OrderService/.settings
+OrderService/target
+OrderService/.classpath
+OrderService/.project 
+UserService/.settings
+UserService/target
+UserService/.classpath
+UserService/.project 
